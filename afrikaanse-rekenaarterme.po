@@ -33998,6 +33998,10 @@ msgid "reporting"
 msgstr "rapportering; verslaggewing"
 
 #.
+msgid "repository"
+msgstr "kodebank"
+
+#.
 msgid "represent"
 msgstr "voorstel"
 
