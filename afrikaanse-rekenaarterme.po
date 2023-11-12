@@ -248,6 +248,10 @@ msgstr ""
 " CAM"
 
 #.
+msgid "changelog"
+msgstr "wysigingsregister"
+
+#.
 msgid "CAQ (computer-aided quality control)"
 msgstr "RGG; RGGB (rekenaargesteunde gehaltebeheer)"
 
