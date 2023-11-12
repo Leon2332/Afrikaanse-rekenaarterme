@@ -1,0 +1,147 @@
+HIERDIE IS 'N KORTLYS VAN TERME WAT EK GEBRUIK VIR MY VERTALINGS.
+_______________________________________________________________________
+
+Reels vir negatiewe stellings:
+    #   "geen"	- enkelnegatief      	bv. “Geen gids beskikbaar”
+    #   "nie"	  - dubbelnegatief	    bv. “Gids nie beskikbaar nie”
+
+
+
+ ENGELS                        AFRIKAANS
+_______________________________________________________________________
+
+-A
+
+API key			                API-sleutelkode
+Application		              App
+Applications		            Apps
+Authentication		          Stawing
+__________________________________________________________
+
+-B
+__________________________________________________________
+
+-C
+
+Changelog			              Wysigingsregister
+Compactable		              Verenigbaar
+Configure			              Stel op
+Continue download		        Hervat aflaai
+Controller		              Kontrole
+Controllers		              Kontroles
+__________________________________________________________
+
+-D
+
+d:h:m:s		                	d:u:m:s
+Default settings		        Standaard instellings
+DD/MM/YYYY		              DD/MM/JJJJ
+Download paused		          Aflaai op rus
+Drive			                  Skyf
+__________________________________________________________
+
+-E
+
+Excecutable		              Uitvoering
+__________________________________________________________
+
+-F
+__________________________________________________________
+
+-G
+__________________________________________________________
+
+-H
+
+Hard drive		              Hardeskyf
+__________________________________________________________
+
+-I
+__________________________________________________________
+
+-J
+__________________________________________________________
+
+-K
+__________________________________________________________
+
+-L
+
+Login		                  	Teken in
+Logout			                Teken uit
+__________________________________________________________
+
+-M
+
+Menu		                  	Keuselys
+__________________________________________________________
+
+-N
+
+No directory detected	      Geen gids opgespoor
+__________________________________________________________
+
+-O
+
+Opacity			                Deursigtigheid
+Open			                  Maak oop
+Open directory		          Open gids
+Open game directory		      Open speletjiegids
+__________________________________________________________
+
+-P
+
+Pause download	          	Laat aflaai rus
+Program			                Program
+__________________________________________________________
+
+-Q
+
+Queue			                  Opvolglys
+Queued		                 	In opvolglys
+__________________________________________________________
+
+-R
+
+Restart			                Herlaai
+Repo		                  	Kodebank
+Repository		              Kodebank
+Run			                    Begin
+__________________________________________________________
+
+-S
+
+Semi-transparent	        	Half-deursigtig
+Stream			                Stroom
+__________________________________________________________
+
+-T
+
+Tag			                    Merker
+Tweaks			                Fyn-wysigings
+__________________________________________________________
+
+-U
+__________________________________________________________
+
+-V
+
+Verification		            Verifikasie
+__________________________________________________________
+
+-W
+__________________________________________________________
+
+-X
+__________________________________________________________
+
+-Y
+__________________________________________________________
+
+-Z
+__________________________________________________________
+
+
+
+
+[EINDE]
