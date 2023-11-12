@@ -2,8 +2,8 @@ HIERDIE IS 'N KORTLYS VAN TERME WAT EK GEBRUIK VIR MY VERTALINGS.
 _______________________________________________________________________
 
 Reels vir negatiewe stellings:
-	#	"geen"		- enkelnegatief		bv. “Geen gids beskikbaar”
-	#	"nie"		- dubbelnegatief		bv. “Gids nie beskikbaar nie”
+	#	"geen"	- enkelnegatief		bv. “Geen gids beskikbaar”
+	#	"nie"	- dubbelnegatief	bv. “Gids nie beskikbaar nie”
 
 
 
@@ -12,10 +12,10 @@ _______________________________________________________________________
 
 -A
 
-API key							API-sleutelkode
-Application						App
-Applications					Apps
-Authentication					Stawing
+API key					API-sleutelkode
+Application				App
+Applications				Apps
+Authentication				Stawing
 __________________________________________________________
 
 -B
@@ -23,26 +23,26 @@ __________________________________________________________
 
 -C
 
-Changelog						Wysigingsregister
-Compactable						Verenigbaar
-Configure						Stel op
-Continue download				Hervat aflaai
-Controller						Kontrole
-Controllers						Kontroles
+Changelog				Wysigingsregister
+Compactable				Verenigbaar
+Configure				Stel op
+Continue download			Hervat aflaai
+Controller				Kontrole
+Controllers				Kontroles
 __________________________________________________________
 
 -D
 
-d:h:m:s							d:u:m:s
-Default settings				Standaard instellings
-DD/MM/YYYY						DD/MM/JJJJ
-Download paused					Aflaai op rus
-Drive							Skyf
+d:h:m:s					d:u:m:s
+Default settings			Standaard instellings
+DD/MM/YYYY				DD/MM/JJJJ
+Download paused				Aflaai op rus
+Drive					Skyf
 __________________________________________________________
 
 -E
 
-Excecutable						Uitvoering
+Excecutable				Uitvoering
 __________________________________________________________
 
 -F
@@ -53,7 +53,7 @@ __________________________________________________________
 
 -H
 
-Hard drive						Hardeskyf
+Hard drive				Hardeskyf
 __________________________________________________________
 
 -I
@@ -67,13 +67,13 @@ __________________________________________________________
 
 -L
 
-Login							Teken in
-Logout							Teken uit
+Login					Teken in
+Logout					Teken uit
 __________________________________________________________
 
 -M
 
-Menu							Keuselys
+Menu					Keuselys
 __________________________________________________________
 
 -N
@@ -83,42 +83,42 @@ __________________________________________________________
 
 -O
 
-Opacity							Deursigtigheid
-Open							Maak oop
-Open directory					Open gids
-Open game directory				Open speletjiegids
+Opacity					Deursigtigheid
+Open					Maak oop
+Open directory				Open gids
+Open game directory			Open speletjiegids
 __________________________________________________________
 
 -P
 
-Pause download					Laat aflaai rus
-Program							Program
+Pause download				Laat aflaai rus
+Program					Program
 __________________________________________________________
 
 -Q
 
-Queue							Opvolglys
-Queued							In opvolglys
+Queue					Opvolglys
+Queued					In opvolglys
 __________________________________________________________
 
 -R
 
-Restart							Herlaai
-Repo							Kodebank
-Repository						Kodebank
-Run								Begin
+Restart					Herlaai
+Repo					Kodebank
+Repository				Kodebank
+Run					Begin
 __________________________________________________________
 
 -S
 
-Semi-transparent				Half-deursigtig
-Stream							Stroom
+Semi-transparent			Half-deursigtig
+Stream					Stroom
 __________________________________________________________
 
 -T
 
-Tag								Merker
-Tweaks							Fyn-wysigings
+Tag					Merker
+Tweaks					Fyn-wysigings
 __________________________________________________________
 
 -U
@@ -126,7 +126,7 @@ __________________________________________________________
 
 -V
 
-Verification					Verifikasie
+Verification				Verifikasie
 __________________________________________________________
 
 -W
