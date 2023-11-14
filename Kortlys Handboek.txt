@@ -19,6 +19,8 @@ Authentication				Stawing
 __________________________________________________________
 
 -B
+
+Browser					Blaaier
 __________________________________________________________
 
 -C
@@ -27,6 +29,7 @@ Changelog				Wysigingsregister
 Compactable				Verenigbaar
 Configure				Stel op
 Continue download			Hervat aflaai
+Continue watching			Kyk verder
 Controller				Kontrole
 Controllers				Kontroles
 __________________________________________________________
@@ -112,12 +115,15 @@ __________________________________________________________
 -S
 
 Semi-transparent			Half-deursigtig
+Storage					Berging
 Stream					Stroom
+Subtitles				Onderskrifte
 __________________________________________________________
 
 -T
 
 Tag					Merker
+Torrent					Torrent
 Tweaks					Fyn-wysigings
 __________________________________________________________
 
@@ -130,6 +136,9 @@ Verification				Verifikasie
 __________________________________________________________
 
 -W
+
+Watching				Kyk tans
+Watching				Word dopgehou
 __________________________________________________________
 
 -X
